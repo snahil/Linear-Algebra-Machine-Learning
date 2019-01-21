@@ -9,7 +9,7 @@ dataset=pd.read_csv('marks.csv')
 y =  dataset.iloc[:,-1]   # The iolic indexer for pandas is used for integer based location
 
 X = dataset.iloc[:, 0:1] # x will be always in captial 
-
+# press x or y for printing the data set
 
 model = LinearRegression()
 
