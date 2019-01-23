@@ -21,4 +21,17 @@ plt.scatter(X,y) # TO plote a Graph
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=1/3, random_state=42)
 
 
+X_train.shape  # For Training the dataset
 
+
+y_train.shape # Same as Above
+
+
+model = LinearRegression()  # Devloping the LR model by importing it from sklearn
+
+
+model.fit(X_train, y_train)
+
+y_pred = model.predict(X_test) # For Predecting the data y_tain Dataset
+
+y_pred # to check the predected output
