@@ -1,9 +1,28 @@
 # Linear-Algebra-Machine-Learning
 
 
-> In this repo multiple AI/ML model is trained and tested with Linear Algebra Model
+> Dependency
+	
+	"import pandas library"
+
+In computer programming, pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license.
+
+	"import sklearn"
+
+	Scikit-learn is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines,
 
 
+
+
+> Resolving Dependency 
+
+ > Using pip command line # for python version 2
+  	i.e pip install pandas
+ > Using pip  command line # for python version 3
+ 	i.e pip3 install pandas
+ > we are using only specfic features of the "sklearn"
+	i.e from sklearn.preeprocessing import lableEncoder
+ 	
 
 
 
