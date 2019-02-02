@@ -3,7 +3,7 @@
 
 > Dependency
 
-Note : Ypu can install the anaconda for the compleat dependency resolve
+Note : You can install the anaconda for the compleat dependency resolve
 
 
 	"import pandas library"
