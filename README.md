@@ -1,8 +1,11 @@
-# Linear-Algebra-Machine-Learning
+# L+inear-Algebra-Machine-Learning
 
 
 > Dependency
-	
+
+Note : Ypu can install the anaconda for the compleat dependency resolve
+
+
 	"import pandas library"
 
 In computer programming, pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license.
@@ -22,6 +25,7 @@ In computer programming, pandas is a software library written for the Python pro
  	i.e pip3 install pandas
  > we are using only specfic features of the "sklearn"
 	i.e from sklearn.preeprocessing import lableEncoder
+ > 	
  	
 
 
